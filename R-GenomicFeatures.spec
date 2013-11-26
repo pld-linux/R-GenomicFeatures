@@ -2,13 +2,13 @@
 
 Summary:	Tools for making and manipulating transcript centric annotations
 Name:		R-%{packname}
-Version:	1.12.1
+Version:	1.14.2
 Release:	1
 License:	Artistic 2.0
 Group:		Applications/Math
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	b9cfb7e3d3c32092834a9fbd5a4de212
-URL:		http://www.bioconductor.org/packages/release/bioc/html/GenomicRanges.html
+# Source0-md5:	aa2f5d703ebcae45963fafcf97fee42e
+URL:		http://www.bioconductor.org/packages/release/bioc/html/GenomicFeatures.html
 BuildRequires:	R
 BuildRequires:	R-AnnotationDbi >= 1.19.36
 BuildRequires:	R-BiocGenerics
